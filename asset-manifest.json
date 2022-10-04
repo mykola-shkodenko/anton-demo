@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anton-demo/static/css/main.344036e6.css",
+    "main.js": "/anton-demo/static/js/main.76b6b0ef.js",
+    "index.html": "/anton-demo/index.html",
+    "main.344036e6.css.map": "/anton-demo/static/css/main.344036e6.css.map",
+    "main.76b6b0ef.js.map": "/anton-demo/static/js/main.76b6b0ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.344036e6.css",
+    "static/js/main.76b6b0ef.js"
+  ]
+}
